@@ -1,0 +1,14 @@
+C:\Escritorio\appMovil\AppInmobiliaria\AppInmobiliaria\AppInmobiliaria\bin\Debug\netstandard2.0\AppInmobiliaria.deps.json
+C:\Escritorio\appMovil\AppInmobiliaria\AppInmobiliaria\AppInmobiliaria\bin\Debug\netstandard2.0\AppInmobiliaria.dll
+C:\Escritorio\appMovil\AppInmobiliaria\AppInmobiliaria\AppInmobiliaria\bin\Debug\netstandard2.0\ref\AppInmobiliaria.dll
+C:\Escritorio\appMovil\AppInmobiliaria\AppInmobiliaria\AppInmobiliaria\bin\Debug\netstandard2.0\AppInmobiliaria.pdb
+C:\Escritorio\appMovil\AppInmobiliaria\AppInmobiliaria\AppInmobiliaria\obj\Debug\netstandard2.0\AppInmobiliaria.csprojAssemblyReference.cache
+C:\Escritorio\appMovil\AppInmobiliaria\AppInmobiliaria\AppInmobiliaria\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Escritorio\appMovil\AppInmobiliaria\AppInmobiliaria\AppInmobiliaria\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Escritorio\appMovil\AppInmobiliaria\AppInmobiliaria\AppInmobiliaria\obj\Debug\netstandard2.0\AppInmobiliaria.AssemblyInfoInputs.cache
+C:\Escritorio\appMovil\AppInmobiliaria\AppInmobiliaria\AppInmobiliaria\obj\Debug\netstandard2.0\AppInmobiliaria.AssemblyInfo.cs
+C:\Escritorio\appMovil\AppInmobiliaria\AppInmobiliaria\AppInmobiliaria\obj\Debug\netstandard2.0\AppInmobiliaria.csproj.CoreCompileInputs.cache
+C:\Escritorio\appMovil\AppInmobiliaria\AppInmobiliaria\AppInmobiliaria\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Escritorio\appMovil\AppInmobiliaria\AppInmobiliaria\AppInmobiliaria\obj\Debug\netstandard2.0\AppInmobiliaria.dll
+C:\Escritorio\appMovil\AppInmobiliaria\AppInmobiliaria\AppInmobiliaria\obj\Debug\netstandard2.0\ref\AppInmobiliaria.dll
+C:\Escritorio\appMovil\AppInmobiliaria\AppInmobiliaria\AppInmobiliaria\obj\Debug\netstandard2.0\AppInmobiliaria.pdb

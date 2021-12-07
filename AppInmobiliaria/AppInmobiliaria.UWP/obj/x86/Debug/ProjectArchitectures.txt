@@ -1,0 +1,1 @@
+C:\Escritorio\appMovil\AppInmobiliaria\AppInmobiliaria\AppInmobiliaria.UWP\AppInmobiliaria.UWP.csproj;x86
